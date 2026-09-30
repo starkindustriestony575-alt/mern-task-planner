@@ -80,7 +80,7 @@ export default function App() {
                 padding: '10px 0',
                 borderBottom: '1px solid #eee',
                 textDecoration: task.completed ? 'line-through' : 'none',
-                color: task.completed ? '#888' : '#111',
+                color: task.completed ? '#a0aec0' : '#ffffff',
               }}
             >
               <span>
